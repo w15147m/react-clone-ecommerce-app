@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image": "images/1.jpg",
+      "company": "Carlton London",
+      "item_name": "Rhodium-Plated CZ Floral Studs",
+      "original_price": 1045,
+      "current_price": 606,
+      "discount_percentage": 42,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": {
+        "stars": 4.5,
+        "count": 1400
+      }
+    },
+    {
+      "id": "002",
+      "image": "images/2.jpg",
+      "company": "Fossil",
+      "item_name": "Grant Chronograph Watch",
+      "original_price": 9995,
+      "current_price": 6996,
+      "discount_percentage": 30,
+      "return_period": 7,
+      "delivery_date": "12 Oct 2023",
+      "rating": {
+        "stars": 4.7,
+        "count": 950
+      }
+    },
+    {
+      "id": "003",
+      "image": "images/3.jpg",
+      "company": "Nike",
+      "item_name": "Revolution 5 Running Shoes",
+      "original_price": 3495,
+      "current_price": 2796,
+      "discount_percentage": 20,
+      "return_period": 10,
+      "delivery_date": "11 Oct 2023",
+      "rating": {
+        "stars": 4.3,
+        "count": 2100
+      }
+    },
+    {
+      "id": "004",
+      "image": "images/4.jpg",
+      "company": "Levi's",
+      "item_name": "Men's 511 Slim Fit Jeans",
+      "original_price": 2999,
+      "current_price": 2099,
+      "discount_percentage": 30,
+      "return_period": 15,
+      "delivery_date": "13 Oct 2023",
+      "rating": {
+        "stars": 4.6,
+        "count": 1800
+      }
+    },
+    {
+      "id": "005",
+      "image": "images/5.jpg",
+      "company": "Apple",
+      "item_name": "AirPods Pro (2nd Gen)",
+      "original_price": 26900,
+      "current_price": 24900,
+      "discount_percentage": 7,
+      "return_period": 10,
+      "delivery_date": "14 Oct 2023",
+      "rating": {
+        "stars": 4.8,
+        "count": 3200
+      }
+    }
+  ]
+}
