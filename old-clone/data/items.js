@@ -1,7 +1,7 @@
 const items = [
     {
         id: '001',
-        image: 'images/1.jpg',
+        image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80',
         company: 'Carlton London',
         item_name: 'Rhodium-Plated CZ Floral Studs',
         original_price: 1045,
@@ -16,7 +16,7 @@ const items = [
     },
     {
         id: '002',
-        image: 'images/2.jpg',
+        image: 'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=400&q=80',
         company: 'CUKOO',
         item_name: 'Women Padded Halter Neck Swimming Dress',
         original_price: 2599,
@@ -31,7 +31,7 @@ const items = [
     },
     {
         id: '003',
-        image: 'images/3.jpg',
+        image: 'https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=400&q=80',
         company: 'NUEVOSDAMAS',
         item_name: 'Women Red & White Printed A-Line Knee-Length Skirts',
         original_price: 1599,
@@ -46,7 +46,7 @@ const items = [
     },
     {
         id: '004',
-        image: 'images/4.jpg',
+        image: 'https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80',
         company: 'ADIDAS',
         item_name: 'Indian Cricket ODI Jersey',
         original_price: 999,
@@ -61,7 +61,7 @@ const items = [
     },
     {
         id: '005',
-        image: 'images/5.jpg',
+        image: 'https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=400&q=80',
         company: 'Roadster',
         item_name: 'Pure Cotton T-shirt',
         original_price: 1399,
@@ -76,7 +76,7 @@ const items = [
     },
     {
         id: '006',
-        image: 'images/6.jpg',
+        image: 'https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80',
         company: 'Nike',
         item_name: 'Men ReactX Running Shoes',
         original_price: 14995,
@@ -91,7 +91,7 @@ const items = [
     },
     {
         id: '007',
-        image: 'images/7.jpg',
+        image: 'https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=400&q=80',
         company: 'The Indian Garage Co',
         item_name: 'Men Slim Fit Regular Shorts',
         original_price: 1599,
@@ -104,7 +104,7 @@ const items = [
     },
     {
         id: '008',
-        image: 'images/8.jpg',
+        image: 'https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
