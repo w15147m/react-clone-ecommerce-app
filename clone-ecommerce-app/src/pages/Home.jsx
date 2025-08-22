@@ -2,7 +2,7 @@ import HomeItem from "../features/HomeItem.jsx";
 const Home = () => {
     const item =  {
         id: '001',
-        image: 'https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=400&q=80',
+        image: 'images/1.jpg',
         company: 'Carlton London',
         item_name: 'Rhodium-Plated CZ Floral Studs',
         original_price: 1045,
@@ -18,9 +18,7 @@ const Home = () => {
    return <main>
         <div className="items-container">
             <HomeItem item={item} />
-            <HomeItem item={item} />
-            <HomeItem item={item} />
-            <HomeItem item={item} />
+
         </div>
     </main>
 
